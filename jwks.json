@@ -3,9 +3,9 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "alg": "RS256",
+      "alg": "RS384",
       "kid": "41d3ea54-7738-4acd-b48b-da381d24fc00",
-      "n": "tYfd9oS2Dv6xaY5ASDlQ1VjYxamlgyM7DeZ3Ckl850EOHEjFB-rvm_iPIm0WSjZzleexxC87rpRnVWBJC-Ej7RU9FFyJi4BFoFGDTsJmg4OgC9MRoH_k2fF69jUGYzscHHWS5LSeEWbXeCRnSac9NfwGbSriJy7ES9-xbhF0vaA-GefxgLIeJLWTsqQ1cz1xjL0F-gQgCFpv_dxtt0PRhUahl-9UsN2tmvTNQ2oMtwZGPmV6hmsORSKuR1_FYLfgktb8QJwDvSSCdIZfjNKFDylZcrQwNhqCoroq1FkNuRK1klwKzyRam8gxJRwb-RgioGSAmeNWORk0BFkDWQv6Kw",
+      "n": "srka8UtgY5zmsxaCUG21i8WID02S63_bd-weupVBKo_qCgGn6qvNSRDe-56EqxrdgWY_HKG4jcF-KJqc9wA4ivAcnDndPotSGKYGfifA6zIf1hB6x_blVyqeW689wG8WrSY2hyqr_flAiF3ylOe1YVF1Oai8MhvqcsG8TUvUKQWNIFI-AZU-jlsz1AgjS_V_jI7bxR45KQOriBGRI_eNkotfXQCcEIuZrbJcyIG0-ylux535LfAn0i8tzUwATRMXob07I4dqeVPYgkIKC4YuxXD8EMNpFwWUelO0GM8Fz_9KDXzHz7bHxey6d3LvWMBxWe2UJLitMc6j7SOboiGSLQ",
       "e": "AQAB"
     }
   ]
