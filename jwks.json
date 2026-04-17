@@ -2,8 +2,10 @@
   "keys": [
     {
       "kty": "RSA",
-      "use": "sig",
       "alg": "RS384",
+      "use": "sig",
+      "key_ops": ["verify"],
+      "ext": true,
       "kid": "41d3ea54-7738-4acd-b48b-da381d24fc00",
       "n": "srka8UtgY5zmsxaCUG21i8WID02S63_bd-weupVBKo_qCgGn6qvNSRDe-56EqxrdgWY_HKG4jcF-KJqc9wA4ivAcnDndPotSGKYGfifA6zIf1hB6x_blVyqeW689wG8WrSY2hyqr_flAiF3ylOe1YVF1Oai8MhvqcsG8TUvUKQWNIFI-AZU-jlsz1AgjS_V_jI7bxR45KQOriBGRI_eNkotfXQCcEIuZrbJcyIG0-ylux535LfAn0i8tzUwATRMXob07I4dqeVPYgkIKC4YuxXD8EMNpFwWUelO0GM8Fz_9KDXzHz7bHxey6d3LvWMBxWe2UJLitMc6j7SOboiGSLQ",
       "e": "AQAB"
