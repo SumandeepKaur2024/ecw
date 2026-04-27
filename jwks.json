@@ -2,7 +2,7 @@
   "keys": [
     {
       "kty": "RSA",
-      "alg": "RS384",
+      "alg": "RS256",
       "use": "sig",
       "key_ops": ["verify"],
       "ext": true,
